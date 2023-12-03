@@ -14,7 +14,7 @@ else:
 
 print("Standard ground shipping cost: £", cost_ground)
 
-# premium ground shipping
+# premium ground shipping:
 cost_premium_ground = 125.00
 
 print("Premium ground shipping: £", cost_premium_ground)
